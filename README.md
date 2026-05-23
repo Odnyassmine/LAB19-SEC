@@ -1,7 +1,7 @@
 # Snake APK Writeup – PWNSEC Challenge
 
 <p align="center">
-  <img src="./images/banner.png" width="900">
+  <img src="images/banner.png" width="900"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@ adb install snake.apk
 Ouvrir `snake.apk` dans Jadx-GUI.
 
 <p align="center">
-  <img src="./images/jadx_overview.png" width="900">
+  <img src="images/jadx_overview.png" width="900"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ Si la condition est valide :
 ---
 
 <p align="center">
-  <img src="./images/mainactivity_check.png" width="850">
+  <img src="images/mainactivity_check.png" width="850"/>
 </p>
 
 ---
@@ -123,7 +123,7 @@ Si la valeur est correcte :
 ---
 
 <p align="center">
-  <img src="./images/bigboss_class.png" width="850">
+  <img src="images/bigboss_class.png" width="850"/>
 </p>
 
 ---
@@ -158,7 +158,7 @@ Présent dans la librairie native :
 ---
 
 <p align="center">
-  <img src="./images/protections.png" width="850">
+  <img src="images/protections.png" width="850"/>
 </p>
 
 ---
@@ -237,7 +237,7 @@ return v0
 ---
 
 <p align="center">
-  <img src="./images/smali_patch.png" width="850">
+  <img src="images/smali_patch.png" width="850"/>
 </p>
 
 ---
@@ -302,7 +302,7 @@ Contenu :
 ---
 
 <p align="center">
-  <img src="./images/yaml_payload.png" width="850">
+  <img src="images/yaml_payload.png" width="850"/>
 </p>
 
 ---
@@ -363,7 +363,7 @@ adb shell am start -n com.pwnsec.snake/.MainActivity -e SNAKE BigBoss
 ---
 
 <p align="center">
-  <img src="./images/intent_launch.png" width="850">
+  <img src="images/intent_launch.png" width="850"/>
 </p>
 
 ---
@@ -407,7 +407,7 @@ adb logcat | grep -i "snake"
 ---
 
 <p align="center">
-  <img src="./images/final_flag.png" width="900">
+  <img src="images/final_flag.png" width="900"/>
 </p>
 
 ---
@@ -497,5 +497,5 @@ Ce challenge démontre :
 ---
 
 <p align="center">
-  <img src="./images/end.png" width="900">
+  <img src="images/end.png" width="900"/>
 </p>
