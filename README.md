@@ -1,8 +1,5 @@
 # Snake APK Writeup – PWNSEC Challenge
 
-<p align="center">
-  <img src="images/banner.png" width="900"/>
-</p>
 
 ---
 
@@ -46,9 +43,7 @@ adb install snake.apk
 
 Ouvrir `snake.apk` dans Jadx-GUI.
 
-<p align="center">
-  <img src="images/jadx_overview.png" width="900"/>
-</p>
+
 
 ---
 
@@ -90,9 +85,6 @@ Si la condition est valide :
 
 ---
 
-<p align="center">
-  <img src="images/mainactivity_check.png" width="850"/>
-</p>
 
 ---
 
@@ -122,9 +114,6 @@ Si la valeur est correcte :
 
 ---
 
-<p align="center">
-  <img src="images/bigboss_class.png" width="850"/>
-</p>
 
 ---
 
@@ -157,9 +146,7 @@ Présent dans la librairie native :
 
 ---
 
-<p align="center">
-  <img src="images/protections.png" width="850"/>
-</p>
+
 
 ---
 
