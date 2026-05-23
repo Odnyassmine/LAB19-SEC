@@ -499,3 +499,34 @@ Ce challenge démontre :
 <p align="center">
   <img src="images/end.png" width="900"/>
 </p>
+# Snake APK Writeup – PWNSEC Challenge
+
+## Screenshots
+
+### 1 — Analyse dans Jadx
+
+![Analyse Jadx](images/1.png)
+
+---
+
+### 2 — Vérifications anti-root / anti-emulator
+
+![Protections](images/2.png)
+
+---
+
+### 3 — Classe BigBoss
+
+![BigBoss](images/3.png)
+
+---
+
+### 4 — Payload YAML
+
+![Payload YAML](images/4.png)
+
+---
+
+### 5 — Exécution finale / Flag
+
+![Flag](images/5.png)
