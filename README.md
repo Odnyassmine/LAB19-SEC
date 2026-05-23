@@ -501,32 +501,32 @@ Ce challenge démontre :
 </p>
 # Snake APK Writeup – PWNSEC Challenge
 
+# Snake APK Writeup – PWNSEC Challenge
+
 ## Screenshots
 
 ### 1 — Analyse dans Jadx
-
-![Analyse Jadx](images/1.png)
+![Analyse Jadx](1.png)
 
 ---
 
 ### 2 — Vérifications anti-root / anti-emulator
-
-![Protections](images/2.png)
+![Protections](2.png)
 
 ---
 
 ### 3 — Classe BigBoss
-
-![BigBoss](images/3.png)
+![BigBoss](3.png)
 
 ---
 
 ### 4 — Payload YAML
-
-![Payload YAML](images/4.png)
+![Payload YAML](4.png)
 
 ---
 
+### 5 — Exécution finale / Flag
+![Flag](5.png)
 ### 5 — Exécution finale / Flag
 
 ![Flag](images/5.png)
